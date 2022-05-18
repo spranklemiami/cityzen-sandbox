@@ -7,7 +7,7 @@ $(document).ready(function (){
 function runHomeSearch () {
     var occupationInput = $("#occupation-input").val();
     var cityInput = $("#city-input").val();
-    var apiKey = "34c685494080bb76386590eb0d7c02f9";
+    var apiKey = "da8238c56234298b933394f6e3ba8481";
     var queryURL =
     "https://cors-anywhere.herokuapp.com/https://api.adzuna.com/v1/api/jobs/us/search/6?app_id=d279677d&app_key=" +
     apiKey +
