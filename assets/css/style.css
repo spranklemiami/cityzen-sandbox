@@ -4,6 +4,10 @@
     display:;
 } */
 
+#logo-image {
+    width: 100%;
+}
+
 #job-details-screen {
     display: hide;
     margin: 5.5%;
